@@ -1,0 +1,128 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Gaming Keyboard and Mouse Set",
+        "brand": "GHI",
+        "model": "D12",
+        "price": 150,
+        "stockQuantity": 25,
+        "color": "RGB Illuminated",
+        "features": [
+          "Mechanical Keys",
+          "Programmable Keys",
+          "Optical Gaming Mouse"
+        ],
+        "image": "https://example.com/image1"
+      },
+      {
+        "id": 2,
+        "title": "Wireless Gaming Mouse",
+        "brand": "ABC",
+        "model": "M7",
+        "price": 60,
+        "stockQuantity": 20,
+        "color": "Blue",
+        "features": [
+          "Wireless Connectivity",
+          "Adjustable DPI",
+          "RGB Lighting"
+        ],
+        "image": "https://example.com/image2"
+      },
+      {
+        "id": 3,
+        "title": "4K UHD Smart TV",
+        "brand": "DEF",
+        "model": "S1",
+        "price": 800,
+        "stockQuantity": 15,
+        "color": "Black",
+        "features": [
+          "4K Resolution",
+          "Smart TV Functionality",
+          "HDR Support"
+        ],
+        "image": "https://example.com/image3"
+      },
+      {
+        "id": 4,
+        "title": "Wireless Headphones",
+        "brand": "JKL",
+        "model": "H2",
+        "price": 80,
+        "stockQuantity": 30,
+        "color": "Black",
+        "features": [
+          "Bluetooth Connectivity",
+          "Noise Cancellation",
+          "Foldable Design"
+        ],
+        "image": "https://example.com/image7"
+      },
+      {
+        "id": 5,
+        "title": "Mechanical Gaming Headset",
+        "brand": "MNO",
+        "model": "H5",
+        "price": 120,
+        "stockQuantity": 18,
+        "color": "Red",
+        "features": [
+          "Surround Sound",
+          "Detachable Mic",
+          "Memory Foam Earcups"
+        ],
+        "image": "https://example.com/image8"
+      }
+    ],
+    "basket": [
+      {
+        "id": 1,
+        "brand": "XYZ",
+        "model": "A1",
+        "price": 1500,
+        "stockQuantity": 50,
+        "image": "https://example.com/basket-image1",
+        "quantity": 8
+      },
+      
+      {
+        "id": 2,
+        "brand": "PQR",
+        "model": "B3",
+        "price": 200,
+        "stockQuantity": 15,
+        "image": "https://example.com/basket-image7",
+        "quantity": 5
+      }, 
+      {
+        "id": 3,
+        "brand": "LMN",
+        "model": "X2",
+        "price": 300,
+        "stockQuantity": 10,
+        "image": "https://example.com/basket-image2",
+        "quantity": 3
+      },
+      {
+        "id": 4,
+        "brand": "OPQ",
+        "model": "C4",
+        "price": 50,
+        "stockQuantity": 40,
+        "image": "https://example.com/basket-image3",
+        "quantity": 12
+      },
+      {
+        "id": 5,
+        "brand": "STU",
+        "model": "D6",
+        "price": 180,
+        "stockQuantity": 25,
+        "image": "https://example.com/basket-image8",
+        "quantity": 6
+      }
+    ]
+  }
+  
